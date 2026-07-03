@@ -1,1 +1,1 @@
-ggplot(m1_data, aes(x=Pressure, y=PartResistance, fill=Temperature)) + geom_boxplot() + geom_hline(yintercept=10)
+ggplot(m1_data, aes(x=Pressure, y=PartResistance, fill=Temperature)) + geom_boxplot()

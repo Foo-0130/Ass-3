@@ -149,3 +149,23 @@ Using dataset `X008..3.`
 <iframe data-src='media/plots/m1_res_pt_inter.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+---
+
+:::: {.columns}
+::: {.column width='50%'}
+### Machine 1: Interaction (P*T)
+**ANOVA Analysis (PartResistance):**
+
+- **p-value (Interaction):** 0.8862
+- **Significant Interaction?:** No
+
+**Observations:**
+This analysis determines if the effect of pressure on resistance varies across different temperature levels. The USL is set at 10.
+
+Using dataset `X008..3.`
+:::
+
+::: {.column width='50%'}
+<iframe data-src='media/plots/m1_res_pt_inter.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
