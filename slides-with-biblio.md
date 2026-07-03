@@ -148,6 +148,26 @@ Using dataset `X008..3.`
 <iframe data-src='media/plots/m1_res_p_usl.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+---
+
+:::: {.columns}
+::: {.column width='50%'}
+### Machine 1: Temperature Significance
+**ANOVA Analysis (PartResistance):**
+
+- **Pr(>F) for Temperature:** 0.4964
+- **Is Temperature Significant?:** No
+
+**Observations:**
+We assess if varying the temperature significantly alters product resistance. Lower resistance is better, with the Upper Specification Limit (USL) set at 10.
+
+Using dataset `X008..3.`
+:::
+
+::: {.column width='50%'}
+<iframe data-src='media/plots/m1_res_t_usl.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
 
 ---
 # Bibliography
