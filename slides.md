@@ -9,6 +9,9 @@ transition: slide
 navigationMode: linear
 hash: true
 ---
+
+---
+
 :::: {.columns}
 ::: {.column width='50%'}
 ### Machine 1: Pressure Impact
@@ -27,7 +30,9 @@ Using dataset `X008..3.`
 <iframe data-src='media/plots/m1_res_p_usl.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+
 ---
+
 :::: {.columns}
 ::: {.column width='50%'}
 ### Machine 1: Temperature Significance
@@ -46,7 +51,9 @@ Using dataset `X008..3.`
 <iframe data-src='media/plots/m1_res_t_usl.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+
 ---
+
 :::: {.columns}
 ::: {.column width='50%'}
 ### Machine 1: Interaction P*T
@@ -65,7 +72,9 @@ Using dataset `X008..3.`
 <iframe data-src='media/plots/m1_res_pt_inter.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+
 ---
+
 :::: {.columns}
 ::: {.column width='50%'}
 ### Machine 1: Interaction (P*T)
