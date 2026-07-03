@@ -75,6 +75,12 @@ Using dataset `X008..3.`
 <iframe data-src='media/plots/m1_res_pt_inter.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+---
+
+<div style='text-align: center; margin-top: 15%;'>
+  <h2>Foo Jia Hao</h2>
+  <p>Matric Card No: 251043259</p>
+</div>
 
 ---
 # Bibliography
